@@ -1,2 +1,2 @@
-# GPAY
+# Google PAY
 Online payment application
